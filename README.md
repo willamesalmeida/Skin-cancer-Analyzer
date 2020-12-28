@@ -4,7 +4,7 @@ kin cancer is the most common human malignancy, is primarily diagnosed visually,
 ### Demo application deployed on [Heroku](https://new-doctor-skin.herokuapp.com/)
 ### Made with [Streamit](https://github.com/shashwatwork/Skin-cancer-Analyzer/blob/master/streamlit-logo.png)
 
-# Skin-cancer-Analyzer
+# Analisador de Câncer de Pele
 o câncer de parentesco é a malignidade humana mais comum, é diagnosticado principalmente visualmente, começando com uma triagem clínica inicial e seguido potencialmente por análise dermatoscópica, uma biópsia e exame histopatológico. Uma classificação automatizada de lesões cutâneas usando imagens é uma tarefa desafiadora devido à variabilidade refinada na aparência das lesões cutâneas. O conjunto de dados HAM10000 ("Human Against Machine with 10000 training images"). Consiste em 10015 imagens dermatoscópicas que são liberadas como um conjunto de treinamento para fins de aprendizado de máquina acadêmico e está disponível publicamente por meio do arquivo ISIC. Este conjunto de dados de referência pode ser usado para aprendizado de máquina e para comparações com especialistas humanos.
  Analisador de câncer de pele - Aplicativo Streamlit
 ### Aplicativo de demonstração com deploy em [Heroku](https://new-doctor-skin.herokuapp.com/)
